@@ -22,7 +22,7 @@ Lattakia University
 - Dart
 - Java
 
-## Certifications
+## Self-Learning
 - Cisco Certified Network Associate (CCNA)
 - Microsoft Certified Solutions Associate (MCSA)
 - Certified Ethical Hacker (CEH)
