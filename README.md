@@ -1,49 +1,40 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">Hello, I'm Hussien  Shanan</h1>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p>
+  I am a  specializing in Computer Networks, Systems, and Information Security. I have a strong background in programming and development, with expertise in various languages and technologies.
+</p>
 
-###
+<h2>Programming Languages</h2>
+<ul>
+  <li><img src="https://es.vecteezy.com/png/12697300-logotipo-de-lenguaje-de-programacion-3d-c" alt="C++" width="20" height="20"/> C++</li>
+  <li><img src="https://iconduck.com/icons/240257/csharp" alt="C#" width="20" height="20"/> C#</li>
+  <li><img src="https://logolook.net/java-logo/" alt="Java" width="20" height="20"/> Java</li>
+  <li><img src="https://logos-world.net/javascript-logo/" alt="JavaScript" width="20" height="20"/> JavaScript</li>
+  <li><img src="https://www.arabpng.com/png-qrlaqm/" alt="Bash" width="20" height="20"/> Bash</li>
+  <li><img src="https://imgpng.ru/download/60239" alt="Python" width="20" height="20"/> Python</li>
+</ul>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h2>Development Technologies</h2>
+<ul>
+  <li><img src="https://www.klipartz.com/ar/sticker-png-xugms" alt="HTML" width="20" height="20"/> HTML</li>
+  <li><img src="https://www.pngaaa.com/detail/3920311" alt="CSS" width="20" height="20"/> CSS</li>
+  <li><img src="https://logos-world.net/javascript-logo/" alt="JavaScript" width="20" height="20"/> JavaScript</li>
+  <li><img src="https://toppng.com/free-image/php-logo-png-transparent-images-PNG-free-PNG-Images_477724" alt="PHP" width="20" height="20"/> PHP</li>
+  <li><img src="https://logowik.com/flutter-vector-logo-5285.html" alt="Flutter" width="20" height="20"/> Flutter</li>
+  <li><img src="https://www.shutterstock.com/nl/search/dart-logo" alt="Dart" width="20" height="20"/> Dart</li>
+</ul>
 
-###
+<h2>Operating Systems</h2>
+<ul>
+  <li><img src="https://pngimg.com/image/27023" alt="Linux" width="20" height="20"/> Linux</li>
+  <li><img src="https://ar.inspiredpencil.com/2021-gallery/sor-shaaar-oyndoz" alt="Windows" width="20" height="20"/> Windows</li>
+</ul>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<h2>Certifications</h2>
+<ul>
+  <li><img src="https://path/to/ccna_logo.png" alt="CCNA" width="20" height="20"/> Cisco Certified Network Associate (CCNA)</li>
+  <li><img src="https://path/to/mcsa_logo.png" alt="MCSA" width="20" height="20"/> Microsoft Certified Solutions Associate (MCSA)</li>
+  <li><img src="https://path/to/oscp_logo.png" alt="OSCP" width="20" height="20"/> Offensive Security Certified Professional (OSCP)</li>
+  <li><img src="https://path/to/ceh_logo.png" alt="CEH" width="20" height="20"/> Certified Ethical Hacker (CEH)</li>
+</ul>
