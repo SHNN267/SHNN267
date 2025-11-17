@@ -8,7 +8,7 @@ Specialist in computer networks and systems with programming experience in Pytho
 
 ## Education
 Lattakia University  
-*System and Networks Engineering (2020 – Present)*
+*System and Networks Engineering (2020 – 2025)*
 
 ## Developer Skills
 - HTML, CSS, JavaScript, PHP
